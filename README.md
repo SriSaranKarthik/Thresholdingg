@@ -1,4 +1,7 @@
 # EX(8):THRESHOLDING
+## Name: K.SriSaran Karthik
+## Reg no: 212224230275
+
 ## Aim
 To segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
